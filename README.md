@@ -63,7 +63,7 @@
 
 ## Overview
 
-This repository contains files used to generate the online presentation [Biodiversity data access](https://biodiversitydata.github.io/datashare) based on [Quarto](https://quarto.org/) and the [RevealJS](https://quarto.org/docs/presentations/revealjs/) framework.
+This repository contains files used to generate the online presentation [Introducing DataSHARE FRB-CESAB projects](https://biodiversitydata.github.io/datashare) based on [Quarto](https://quarto.org/) and the [RevealJS](https://quarto.org/docs/presentations/revealjs/) framework.
 
 
 ## Usage
