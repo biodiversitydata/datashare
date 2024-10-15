@@ -11,11 +11,11 @@
 ::: {.column .information width="68%"}
 
 ::: {.title}
-Quarto template
+DataSHARE projects
 :::
 
 ::: {.subtitle}
-HTML presentation w/ RevealJS framework
+Sharing open-access and large scale biodiversity datasets
 :::
 
 ::: {.date}
