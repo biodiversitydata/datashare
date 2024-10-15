@@ -1,3 +1,69 @@
 ## DataSHARE projects
 
 Coming soon...
+
+## The projects
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+::: {.center}
+**ISLETS** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/islets/)
+:::
+
+![&#169; Claire Fortunel](images/islets-photo.jpg){.img-crop}
+:::
+
+::: {.column width=33%}
+
+::: {.center}
+**PHENOFISH** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/phenofish/)
+:::
+
+![&#169; Nicolas Loiseau](images/phenofish-photo.png){.img-crop}
+:::
+
+::: {.column width=33%}
+
+::: {.center}
+**DYNAMITE** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/dynamite/)
+:::
+
+![&#169; Alexander Semenov](images/dynamite-photo.jpg){.img-crop}
+:::
+
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+::: {.center}
+**FAIRWOOD** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fairwood/)
+:::
+
+![&#169; Ignatius Adikurnia](images/fairwood-photo.jpg){.img-crop}
+:::
+
+::: {.column width=33%}
+
+::: {.center}
+**FARSEX** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/farsex/)
+:::
+
+![&#169; Benjamin Geffroy](images/farsex-photo.jpg){.img-crop}
+:::
+
+::: {.column width=33%}
+
+::: {.center}
+**INVAHEALTH** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/invahealth/)
+:::
+
+![&#169; James D. Gathany](images/invahealth-photo.jpg){.img-crop}
+:::
+
+::::

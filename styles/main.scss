@@ -86,8 +86,9 @@ $presentation-h3-font-size: 1.0em !default;
 figcaption {
   margin-top: 0;
   padding-top: 0;
-  text-align: center;
-  font-size: 120%;
+  padding-right: 10px;
+  text-align: right;
+  font-size: 100%;
 }
 
 figure p, figure p img {
@@ -174,3 +175,9 @@ blockquote p::before {
   padding-right: 10px;
 }
 */
+
+.img-crop {
+  border-radius: 20px;
+  padding: 0 !important;
+  margin: 0 !important;
+}
