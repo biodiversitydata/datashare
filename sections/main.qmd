@@ -1,8 +1,29 @@
+## DataSHARE calls
+
+- 2 FRB-CESAB calls in 2022 & 2023 
+- 6 projects funded and supported
+
+<br>
+
+. . .
+
+> **Objective:** Accelerating the sharing of open-access and large scale _novel_ biodiversity related datasets.
+
+<br>
+
+. . .
+
+- Publication of metadata and database
+- Release of code and workflow used to preprocess, clean and homogenize the data from raw to final stage
+
+<br>
+
+. . .
+
+{{< fa circle-right >}} &nbsp; A **new call** is scheduled for 2025
+
+
 ## DataSHARE projects
-
-Coming soon...
-
-## The projects
 
 :::: {.columns}
 
@@ -15,13 +36,14 @@ Coming soon...
 ![&#169; Claire Fortunel](images/islets-photo.jpg){.img-crop}
 :::
 
+
 ::: {.column width=33%}
 
 ::: {.center}
-**PHENOFISH** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/phenofish/)
+**FAIRWOOD** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fairwood/)
 :::
 
-![&#169; Nicolas Loiseau](images/phenofish-photo.png){.img-crop}
+![&#169; Ignatius Adikurnia](images/fairwood-photo.jpg){.img-crop}
 :::
 
 ::: {.column width=33%}
@@ -42,11 +64,12 @@ Coming soon...
 ::: {.column width=33%}
 
 ::: {.center}
-**FAIRWOOD** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fairwood/)
+**PHENOFISH** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/phenofish/)
 :::
 
-![&#169; Ignatius Adikurnia](images/fairwood-photo.jpg){.img-crop}
+![&#169; Nicolas Loiseau](images/phenofish-photo.png){.img-crop}
 :::
+
 
 ::: {.column width=33%}
 
@@ -64,6 +87,57 @@ Coming soon...
 :::
 
 ![&#169; James D. Gathany](images/invahealth-photo.jpg){.img-crop}
+:::
+
+::::
+
+
+## Today
+
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+::: {.center}
+**ISLETS** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/islets/)
+:::
+
+![&#169; Claire Fortunel](images/islets-photo.jpg){.img-crop}
+:::
+
+::: {.column width=66%}
+<br/><br/>
+
+Island leaf ecophysiological trait synthesis
+
+- **Claire Fortunel** (IRD, France) &nbsp;[{{< fa globe >}}](https://cfortunel.wordpress.com/)
+- _Kasey Barton (Hawaï Univ., USA)_
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+::: {.center}
+**PHENOFISH** &nbsp;&nbsp;[{{< fa up-right-from-square size=xs >}}](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/phenofish/)
+:::
+
+![&#169; Nicolas Loiseau](images/phenofish-photo.png){.img-crop}
+:::
+
+
+::: {.column width=66%}
+<br/><br/>
+
+Creating a global database of fish functional traits: integrating physiology and ecology across aquatic ecosystems
+
+- **Nicolas Loiseau** (CNRS, France) &nbsp;[{{< fa globe >}}](https://umr-marbec.fr/membre/nicolas-loiseau/)
+- _Sébastien Brosse (Univ. Paul Sabatier, France)_
+
 :::
 
 ::::
