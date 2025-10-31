@@ -82,7 +82,7 @@ To understand the file organisation of this repository, please read this [Wiki](
 
 ## Citation
 
-Casajus N (2024) Introducing DataSHARE FRB-CESAB projects. Online presentation available at <https://github.com/biodiversitydata/datashare/>.
+Casajus N (2025) Introducing DataSHARE FRB-CESAB projects. Online presentation available at <https://github.com/biodiversitydata/datashare/>.
 
 
 ## Contributing
