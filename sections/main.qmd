@@ -1,7 +1,8 @@
 ## DataSHARE calls
 
-- 2 FRB-CESAB calls in 2022 & 2023 
+- 3 FRB-CESAB calls in 2022, 2023 & 2025
 - 6 projects funded and supported
+- 4 projects to be selected in 2025
 
 <br>
 
@@ -20,7 +21,7 @@
 
 . . .
 
-{{< fa circle-right >}} &nbsp; A **new call** is scheduled for 2025
+{{< fa circle-right >}} &nbsp; **Next call** in 2027!
 
 
 ## DataSHARE projects
