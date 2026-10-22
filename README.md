@@ -82,7 +82,7 @@ To understand the file organisation of this repository, please read this [Wiki](
 
 ## Citation
 
-Casajus N (2025) DataSHARE projects: Good practices, tools and homogenizing taxonomy. Online presentation available at <https://github.com/biodiversitydata/datashare/>.
+Casajus N (2026) _The FRB-CESAB DataSHARE projects_. Online presentation available at <https://github.com/biodiversitydata/datashare/>.
 
 
 ## Contributing
